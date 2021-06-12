@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @melquesedek
-- 👀 I’m interested in ... Flutter
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ... my private projects for a while. Soon I plan to join and contribute with more projects
-- 📫 How to reach me ... melquesedekdeoliveira@gmail.com
-
-<!---
-melquesedek/melquesedek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Eae, manoooo. Sou o Melque. Estou abrindo o código do TuaStoria. Espero que alguém possa achar legal o projeto e contribuir.
+- 👀 Estou procurando parceiros que possam ajudar no desenvolvimento dessa rede social para escritores/leitores.
+- 🌱 Estou trabalhando sozinho há algum tempo, mas utilizo há tanto tempo produtos opensource que decidir abrir o código para compartilhar com vocês.
+- 💞️ Estou focado no TuaStoria, mas ocasionalmente se surgir a necessidade espero ajudar em outros projetos OpenSource.
+- 📚 Programo principalmente em PHP, mas como todo programador PHP já surfeu em muitas outras linguagens. É preciso, né?
+- 📫 Meu e-mail é esse aí... admin@tuastoria.com... eu verifico ele diariamente ^^
