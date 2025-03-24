@@ -44,3 +44,5 @@ Passionate about automation, whether it’s chatbots, scripts, or CI/CD.
 📩 melquesedekdeoliveira@gmail.com (checked daily!)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/melquesedek) | 🏗️ [My GitHub](https://github.com/melquesedek)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melquesedek&show_icons=true&theme=radical)
